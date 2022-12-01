@@ -20,7 +20,7 @@
 	branch = dunfell
 [submodule "repos/meta-tegra"]
 	path = repos/meta-tegra
-	url = https://github.com/OE4T/meta-tegra.git
+	url = https://github.com/asilorgen/meta-tegra.git
 	branch = dunfell
 [submodule "repos/meta-tegra-community"]
 	path = repos/meta-tegra-community
